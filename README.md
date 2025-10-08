@@ -68,4 +68,4 @@ RegisterNumber: 25007655
 <img width="1053" height="644" alt="{A801A408-5526-4653-8C4B-E4CE61FD96E9}" src="https://github.com/user-attachments/assets/8fb6020d-4c8a-4b9c-9b58-813dc3f9068a" />
 
 **Result:**
-<img width="948" height="84" alt="{651F238B-1893-44A7-BE0A-685FCED05AEE}" src="https://github.com/user-attachments/assets/8a7f6962-4c73-4801-bdc6-608c6968b15e" />
+ The program of half added and  half subtration is verifid
