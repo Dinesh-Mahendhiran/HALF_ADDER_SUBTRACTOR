@@ -35,7 +35,8 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
-<img width="553" height="661" alt="{9E3077EB-D9AF-455C-9694-2DE7018E3830}" src="https://github.com/user-attachments/assets/b09cfcf8-f974-42af-b440-091501aac648" />
+<img width="550" height="657" alt="{EDA06F51-A59D-4E9D-B596-73613496E8AD}" src="https://github.com/user-attachments/assets/2ed4317b-a9a5-40d9-a20d-d512be607b86" />
+
 
 **Procedure**
 
@@ -58,11 +59,13 @@ Developed by:Dinesh.M
 RegisterNumber: 25007655
 
 **RTL Schematic**
-<img width="1076" height="635" alt="{4824CBDF-36F9-48E0-92D9-4BD8B52607BA}" src="https://github.com/user-attachments/assets/714ed27c-264f-45f8-a10d-1b7a3edc36db" />
-<img width="1072" height="634" alt="{DEC37E3D-862A-43EF-8114-627C49642299}" src="https://github.com/user-attachments/assets/9033e1a6-cf7f-4d6a-a259-d0d90411794f" />
+<img width="1078" height="635" alt="{7A5428D9-8B94-497D-B8D9-989919380798}" src="https://github.com/user-attachments/assets/e25cc75b-947d-4949-9b5a-f5d6f545ce36" />
+<img width="1070" height="647" alt="{BA3EE41C-7B6F-42F3-A78E-F49D2584C0F6}" src="https://github.com/user-attachments/assets/15aa8edd-7b62-497e-81b1-9e38382db663" />
 
 
 **Output/TIMING Waveform**
-<img width="956" height="68" alt="{1F84A006-8471-4FFD-927A-AD907C6008EA}" src="https://github.com/user-attachments/assets/ed279a58-99ec-4018-a5bd-0f805cfbf14e" />
+<img width="1077" height="642" alt="{B6376A25-D691-429C-ACC6-921578523B07}" src="https://github.com/user-attachments/assets/0080e6e6-702a-4e98-85d8-b8d72ac0d1a7" />
+<img width="1053" height="644" alt="{A801A408-5526-4653-8C4B-E4CE61FD96E9}" src="https://github.com/user-attachments/assets/8fb6020d-4c8a-4b9c-9b58-813dc3f9068a" />
 
 **Result:**
+<img width="948" height="84" alt="{651F238B-1893-44A7-BE0A-685FCED05AEE}" src="https://github.com/user-attachments/assets/8a7f6962-4c73-4801-bdc6-608c6968b15e" />
